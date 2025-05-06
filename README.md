@@ -1,6 +1,6 @@
 # Detección de Fraude en Transacciones con Tarjeta de Crédito 💳
 
-Este proyecto tiene como objetivo identificar transacciones fraudulentas a partir de un dataset real de tarjetas de crédito utilizando técnicas de análisis de datos y modelos de machine learning. Es un proyecto realizado para el curso de IA de IBM.
+Este proyecto tiene como objetivo identificar transacciones fraudulentas a partir de un dataset real de tarjetas de crédito utilizando técnicas de análisis de datos y modelos de machine learning. Es un proyecto realizado para el curso de IA de IBM y SkillUp.
 
 ## 📁 Dataset
 

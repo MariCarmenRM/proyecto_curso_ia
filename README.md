@@ -20,8 +20,8 @@ El dataset contiene 284,807 transacciones realizadas por titulares europeos en s
 - Verificación de valores nulos
 
 ### 2. Análisis exploratorio
-- Porcentaje de fraude (~0.17%)
-- Importe medio de fraude (~123.87 €)
+- Porcentaje de fraude
+- Importe medio de fraude
 - Visualización con histogramas y gráficos de barras
 
 ### 3. Preprocesamiento
@@ -34,11 +34,5 @@ Se utilizó un modelo de **Random Forest Classifier** con los siguientes paráme
 - `random_state = 42`
 
 ### 5. Evaluación del modelo
-- **Accuracy**: 99.95%
-- **Recall (fraudes)**: 0.73
-- **Precision (fraudes)**: 0.96
-- **F1-score (fraudes)**: 0.83
-- **Confusion Matrix**:
-  - Verdaderos positivos (fraude detectado): 67
-  - Falsos negativos (fraudes no detectados): 25
-  - Falsos positivos: 3
+- **Accuracy**
+- **Confusion Matrix**
